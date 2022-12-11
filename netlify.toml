@@ -1,0 +1,2 @@
+[template.environment]
+GATSBY_MEDUSA_BACKEND_URL="https://salty-caramel-store.herokuapp.com/"
