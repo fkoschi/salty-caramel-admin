@@ -20,7 +20,7 @@ if (process.env.GATSBY_MEDUSA_BACKEND_URL) {
 // API
 
 const client = axios.create({
-  baseURL: `${baseURL}/admin/analytics-configs`,
+  baseURL: `${baseURL}admin/analytics-configs`,
   withCredentials: true,
 })
 
